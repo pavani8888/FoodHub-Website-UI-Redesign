@@ -189,8 +189,3 @@ This project demonstrates the complete UI/UX redesign process, including heurist
 
 UI/UX Design Internship Project
 
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
